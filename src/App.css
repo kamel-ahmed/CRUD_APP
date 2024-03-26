@@ -1,0 +1,21 @@
+.sidebar{
+    min-height:90vh;
+    background:#f8f9fa
+}
+.sidebar li{
+    padding:10px 5px ;
+    text-align:center;
+}
+.sidebar li a{
+    text-decoration:none
+}
+.table td {
+    max-width:200px;
+}
+/* product info */
+
+.pro-img{
+    max-width:70%;
+    max-height: 500px;
+    margin: 10px 15% ;
+}
